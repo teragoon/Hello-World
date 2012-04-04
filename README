@@ -5,3 +5,9 @@ Author: Laszlo Szathmary (jabba.laci@gmail.com)
 Date:   2011-03-29 (yyyy-mm-dd)
 
 Test project for exploring Git and GitHub.
+
+<!-- localRepository
+  | The path to the local repository maven will use to store artifacts.  
+  |<br>
+  | Default: ~/.m2/repository  
+-->
